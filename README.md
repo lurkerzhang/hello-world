@@ -1,2 +1,4 @@
 # hello-world
-Just my first repository
+
+Hi friends!
+Lurker here!
